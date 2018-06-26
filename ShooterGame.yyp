@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "098e1ac6-76ff-4af6-a626-8104bb2466c0",
+            "Value": {
+                "id": "b4852dc7-d2bc-4312-8f4c-ac678acc0fdf",
+                "resourcePath": "objects\\oSolid\\oSolid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1bd4ec1a-e213-4029-a277-6a5b8f930608",
             "Value": {
                 "id": "3b0ea426-1be7-41b3-b3a0-2f100257b56e",
@@ -135,11 +143,27 @@
             }
         },
         {
+            "Key": "a82b36c4-5c33-43c7-a888-e7ff56ac8631",
+            "Value": {
+                "id": "0c902224-17f2-4d9f-96c0-b4443a482105",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "ae3704ea-33a1-44fa-8567-e3bd3bff838f",
             "Value": {
                 "id": "c2379e76-9a8d-4aae-9a38-701063245951",
                 "resourcePath": "views\\ae3704ea-33a1-44fa-8567-e3bd3bff838f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb938759-2ab2-4e76-8b1a-31f23b5319e4",
+            "Value": {
+                "id": "5e818527-3bc5-4dae-8cbb-727b7f367d1d",
+                "resourcePath": "sprites\\sNoTexture\\sNoTexture.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -156,6 +180,14 @@
                 "id": "31066ac5-e2bf-403f-8399-eb74111254fd",
                 "resourcePath": "views\\d1534f61-ea8b-4689-a10e-aed328c64406.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d22c513d-86c8-432e-8dce-99ef60c95c28",
+            "Value": {
+                "id": "7e07790f-7be5-4af2-97e8-54f76d2dd77d",
+                "resourcePath": "sprites\\sTileset\\sTileset.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
