@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "5244e268-ea10-4404-b573-ceaa6fc6429f",
+            "Value": {
+                "id": "5efcbd45-1155-40bb-8fb0-d4c46a2f72de",
+                "resourcePath": "objects\\Enemy_Generator\\Enemy_Generator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5456763d-d2a5-488c-a8f3-1024c44017df",
             "Value": {
                 "id": "709808cd-8391-4224-8377-ba81f946f54c",
