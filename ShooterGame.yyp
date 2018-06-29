@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "6d3ed5da-b3c7-4604-ab9d-104c38359a11",
+            "Value": {
+                "id": "6bfe8b28-e368-463b-b0ca-3d72a6cbd41a",
+                "resourcePath": "sprites\\hero_Shot\\hero_Shot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7bc855f5-504a-4fdb-a091-e9eeebab4ab2",
             "Value": {
                 "id": "e75db26f-dcc3-4c70-961c-89a63c5c003c",
@@ -252,6 +260,14 @@
                 "id": "3cac9e35-4696-4d79-9003-84f1a7f2c8ee",
                 "resourcePath": "sprites\\spr_Walk_Down\\spr_Walk_Down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c42d7c1f-275b-453f-89df-fc87178ad0ae",
+            "Value": {
+                "id": "56104856-33e0-4d25-be1f-07a92c0f77e6",
+                "resourcePath": "objects\\Shot\\Shot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
