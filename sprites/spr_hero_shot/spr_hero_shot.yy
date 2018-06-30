@@ -2,7 +2,7 @@
     "id": "6d3ed5da-b3c7-4604-ab9d-104c38359a11",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "hero_Shot",
+    "name": "spr_hero_shot",
     "For3D": false,
     "HTile": false,
     "VTile": false,

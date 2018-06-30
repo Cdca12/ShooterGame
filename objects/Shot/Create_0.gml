@@ -1,6 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-sprite_index=hero_Shot;
+sprite_index=spr_hero_shot;
 image_speed=0;
 
 
