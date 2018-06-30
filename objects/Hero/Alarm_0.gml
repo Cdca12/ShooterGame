@@ -1,7 +1,7 @@
 /// @description Alarma para crear enemigos
 // You can write your code in this editor
 
-/* TODO HACER QUE RESPAWNEE EL ENEMIGO
+/*ODO HACER QUE RESPAWNEE EL ENEMIGO
 var aux = random_range(30,90);
 alarm[0] = aux;
 var cont = 0,

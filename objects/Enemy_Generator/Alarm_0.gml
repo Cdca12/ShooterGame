@@ -2,7 +2,6 @@
 // Puede escribir su código en este editor
 var aux=random_range(30,90);
 alarm[0]=aux;
-var cont=0;
 if (cont<=30) 
 {
 	if (pos)
@@ -19,6 +18,9 @@ else
 {
 	show_message_async("Nivel completado");
 }
+
+draw_text(200,200,"Enemigos: "+string(30-cont));
+
 
 if (pos)
 {
