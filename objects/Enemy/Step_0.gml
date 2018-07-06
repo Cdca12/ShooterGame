@@ -37,3 +37,9 @@ else
 	image_index=image_number-1;
 }
 
+//muerte
+if(enemyLives<=0)
+{
+    instance_destroy();	
+}
+
