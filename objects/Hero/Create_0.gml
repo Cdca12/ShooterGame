@@ -7,4 +7,6 @@ image_index = 1;
 direction=270;
 
 // Activando alarma para crear enemigos
-alarm[0] = room_speed * 3;
+lives=3;
+isUnderAttack=false;
+timerAttack=0;

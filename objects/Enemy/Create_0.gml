@@ -4,3 +4,5 @@ right_Dir=pointer_null;
 up_Dir=pointer_null;
 down_Dir=pointer_null;
 left_Dir=pointer_null;
+
+enemyLives=pointer_null;
