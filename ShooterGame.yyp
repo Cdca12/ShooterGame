@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0ff32101-aaa9-4374-90ce-775b37307db1",
+            "Value": {
+                "id": "cd59ab7c-cc04-44c3-8083-71a2ff816b3b",
+                "resourcePath": "sprites\\spr_end\\spr_end.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "135c7c7b-de02-44db-b3d6-fe2c858e1295",
             "Value": {
                 "id": "a07f4b95-6dda-4de9-aa3e-4d363ee2432f",
@@ -83,6 +91,14 @@
             "Value": {
                 "id": "4f5bc69b-d97c-4d02-a1f4-2dd433855446",
                 "resourcePath": "sprites\\enemy_Walk_Up\\enemy_Walk_Up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "331e89ff-3cb5-4de0-abc5-ca100ac47150",
+            "Value": {
+                "id": "b60f2a7f-aba8-4e60-bb5b-5a8e54d1d118",
+                "resourcePath": "sprites\\spr_begin\\spr_begin.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "60e11539-1233-4ce2-8714-2962145c767c",
+            "Value": {
+                "id": "5fc4dd28-9ad1-4e10-a250-48319d3d3628",
+                "resourcePath": "rooms\\room_start\\room_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "66e097c5-321b-49ce-90d0-f4bb4500ee64",
             "Value": {
                 "id": "a1245c48-cd8b-468a-a11c-ad0757129a5e",
@@ -196,6 +220,22 @@
                 "id": "e75db26f-dcc3-4c70-961c-89a63c5c003c",
                 "resourcePath": "sprites\\enemy_Walk_Down\\enemy_Walk_Down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7cf58ba1-d746-448b-866f-3364773fcdf6",
+            "Value": {
+                "id": "5c6145bd-be47-4aae-a253-895476b0d539",
+                "resourcePath": "objects\\game\\game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "80ff20fc-2e8f-43cd-a5f9-8b2118e8f563",
+            "Value": {
+                "id": "bcb9d680-74e4-4eb8-9980-2a9e0b531a7d",
+                "resourcePath": "views\\80ff20fc-2e8f-43cd-a5f9-8b2118e8f563.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -255,10 +295,34 @@
             }
         },
         {
+            "Key": "ba2dcba6-7df3-4af8-916b-33b70847fc17",
+            "Value": {
+                "id": "5cd15014-93c4-4a34-b67e-133408c02e9e",
+                "resourcePath": "objects\\beginScreen\\beginScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bae68fa0-c4c5-400b-8342-f2271e83230e",
             "Value": {
                 "id": "3cac9e35-4696-4d79-9003-84f1a7f2c8ee",
                 "resourcePath": "sprites\\spr_walk_down\\spr_walk_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0590738-ef12-49eb-a66d-4317e7fd42f2",
+            "Value": {
+                "id": "e57df807-353e-4035-a343-b38c0dd8be06",
+                "resourcePath": "rooms\\room_end\\room_end.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c37fa95a-7603-45d8-b46e-514da4f58993",
+            "Value": {
+                "id": "ef4480e0-90af-4f73-93fc-298ec5c24935",
+                "resourcePath": "sprites\\spr_intro\\spr_intro.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -324,6 +388,14 @@
                 "id": "4827d9a2-9e22-4067-a1ca-1c9cf47dd19c",
                 "resourcePath": "views\\d3530f15-a847-4370-b6cc-23c05a446c7a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dd9bb860-f899-4d2c-bdb5-d2a8a0bbedc4",
+            "Value": {
+                "id": "3cb16dde-b6c4-4c0d-9dc5-315c53af23f1",
+                "resourcePath": "objects\\endScreen\\endScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {

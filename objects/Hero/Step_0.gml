@@ -1,12 +1,12 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-
+/*
 if(lives<=0)
 {
 	instance_destroy();
     show_message_async("Juego Terminado");
 }
-
+*/
 if(isUnderAttack and instance_exists(Hero))
 {
 	if (timerAttack==90)
