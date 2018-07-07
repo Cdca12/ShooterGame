@@ -18,7 +18,7 @@ if (cont<=30)
 }
 else 
 {
+	if(!instance_exists(Enemy))
 	show_message_async("Nivel completado");
 }
 
-draw_text(200,200,"Enemigos: "+string(30-cont));
