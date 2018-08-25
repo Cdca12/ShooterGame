@@ -41,5 +41,6 @@ else
 if(enemyLives<=0)
 {
     instance_destroy();	
+	score+=100;
 }
 

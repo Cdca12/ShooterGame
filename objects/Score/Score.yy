@@ -2,9 +2,28 @@
     "id": "a4f922b1-a4c5-4eeb-b418-08054b2d3bff",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object9",
+    "name": "Score",
     "eventList": [
-        
+        {
+            "id": "d0e7a1ce-1fd8-49e8-91ae-8c5914aa0f2c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a4f922b1-a4c5-4eeb-b418-08054b2d3bff"
+        },
+        {
+            "id": "7a2d0b27-41e3-4354-abaa-68b3f956b776",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a4f922b1-a4c5-4eeb-b418-08054b2d3bff"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
