@@ -2,7 +2,7 @@
 // Puede escribir su código en este editor
 var aux=random_range(30,90);
 alarm[0]=aux;
-if (cont<=3) 
+if (cont<=30) 
 {
 	if (choose(true, false))
 	{
