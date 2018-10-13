@@ -12,7 +12,7 @@ if instance_exists(Hero)
 {
     var dir= point_direction(x,y,Hero.x,Hero.y);
   	image_speed=1;
-	if(dir<45 and dir>=315)
+	if(dir<45 or dir>=315)
     {
 	   sprite_index=right_Dir;
     }
@@ -35,5 +35,12 @@ else
 	speed=0;
 	image_speed=0;
 	image_index=image_number-1;
+}
+
+//muerte
+if(enemyLives<=0)
+{
+    instance_destroy();	
+	score+=100;
 }
 

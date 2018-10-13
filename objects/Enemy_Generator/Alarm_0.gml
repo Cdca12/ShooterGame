@@ -18,7 +18,11 @@ if (cont<=30)
 }
 else 
 {
-	show_message_async("Nivel completado");
+	if(!instance_exists(Enemy) and controlMensaje)
+	{
+		show_message_async("Nivel completado");
+		controlMensaje=false;
+		global.finalizarScore=true;
+	}
 }
 
-draw_text(200,200,"Enemigos: "+string(30-cont));
