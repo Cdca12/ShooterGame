@@ -3,3 +3,4 @@
 
 room_instance_clear(room)
 room_goto(room_start);
+score = 0;
