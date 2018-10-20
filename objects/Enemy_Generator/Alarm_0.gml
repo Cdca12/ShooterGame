@@ -2,7 +2,7 @@
 // Puede escribir su código en este editor
 var aux=random_range(30,90);
 alarm[0]=aux;
-if (cont<=30) 
+if (cont<=29) 
 {
 	if (choose(true, false))
 	{
@@ -18,11 +18,14 @@ if (cont<=30)
 }
 else 
 {
-	if(!instance_exists(Enemy) and controlMensaje)
+	if(!instance_exists(Enemy))
 	{
-		show_message_async("Nivel completado");
-		controlMensaje=false;
+//		show_message_async("Nivel completado");
+		//controlMensaje=false;
 		global.finalizarScore=true;
+		alarm[0] = -1;
+		room_goto(room_win);
+		
 	}
 }
 
